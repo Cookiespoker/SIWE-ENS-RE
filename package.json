@@ -1,4 +1,3 @@
-
 {
   "name": "ens-poker-app-siwe",
   "version": "1.0.0",
@@ -9,8 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-"@rainbow-me/rainbowkit": "^0.12.6"
-    "wagmi": "1.3.0",
+    "@rainbow-me/rainbowkit": "^0.10.2",
+    "wagmi": "^1.3.0",
     "viem": "^1.4.0",
     "next": "13.4.7",
     "react": "18.2.0",
